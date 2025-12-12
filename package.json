@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ory/client": "^1.22.15",
+    "@ory/elements-markup": "^0.9.0",
+    "@ory/elements-react": "^1.1.0",
+    "@ory/nextjs": "^1.0.0-rc.0"
+  }
+}
