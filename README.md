@@ -1,5 +1,7 @@
 # Kratos Demo - Identity Authentication Flow
 
+![ory_sample](https://github.com/user-attachments/assets/2cf45f74-a6f3-4703-bdc1-64f2bb629eca)
+
 A complete identity and access management authentication flow demonstration using [Ory Kratos](https://www.ory.sh/kratos/) and a Next.js application.
 
 ## Overview
